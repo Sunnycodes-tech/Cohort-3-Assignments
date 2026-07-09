@@ -52,17 +52,6 @@ Cohort-3-Assignments
 
 ---
 
-# 📚 Assignment Roadmap
-
-| Assignment | Status |
-|------------|--------|
-| Assignment 1 | ✅ In Progress |
-| Assignment 2 | ⏳ Coming Soon |
-| Assignment 3 | ⏳ Coming Soon |
-| Assignment 4 | ⏳ Coming Soon |
-| Assignment 5 | ⏳ Coming Soon |
-
----
 
 # 🛠 Tech Stack
 
@@ -99,20 +88,6 @@ Cohort-3-Assignments
 
 ---
 
-# 📈 Progress
-
-- [x] Git & GitHub Setup
-- [x] Repository Structure
-- [x] Assignment 1 Started
-- [ ] Assignment 1 Completed
-- [ ] Assignment 2
-- [ ] Assignment 3
-- [ ] JavaScript Projects
-- [ ] React Projects
-- [ ] Backend Projects
-- [ ] Full Stack Projects
-
----
 
 # 🌟 Highlights
 
@@ -166,8 +141,8 @@ Suggestions, feedback, and improvements are always welcome.
 
 # 📬 Connect With Me
 
-- GitHub: **Sunnycodes-tech**
-- LinkedIn: *(Add Later)*
+- GitHub: **https://github.com/Sunnycodes-tech**
+- LinkedIn: **https://www.linkedin.com/in/sunnycodes-tech/**
 - Portfolio: *(Coming Soon)*
 
 ---
