@@ -6,13 +6,13 @@ A modern and responsive Pokémon themed landing page built using **HTML5** and *
 
 ## 📸 Preview
 
-> *(Project screenshot will be added after completion.)*
+![Easy Pokemon UI](./screenshots/preview.png)
 
 ---
 
 ## 🌐 Live Demo
 
-> *(Netlify deployment link will be added here.)*
+> *https://easy-pokemon-ui.netlify.app/*
 
 ---
 
