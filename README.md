@@ -1,23 +1,181 @@
-# Cohort 3 Assignments 🚀
+# 🚀 Cohort 3 Assignments
 
-This repository contains all my assignments and projects completed during Cohort 3.
+> A curated collection of my frontend, backend, and full-stack development assignments and projects completed during Cohort 3.
 
-## Repository Structure
+---
+
+## 📌 About
+
+This repository contains all the assignments, projects, and practical implementations I build throughout my Cohort 3 learning journey.
+
+The goal of this repository is to document my progress, improve problem-solving skills, strengthen development fundamentals, and build a strong portfolio with clean, production-ready code.
+
+---
+
+## 🎯 Learning Goals
+
+- Build strong Frontend Development fundamentals
+- Master HTML, CSS, JavaScript, React, and Backend Development
+- Write clean, maintainable, and scalable code
+- Learn Git & GitHub workflow
+- Build real-world projects
+- Improve project architecture and folder organization
+- Create a professional developer portfolio
+
+---
+
+# 📂 Repository Structure
 
 ```text
 Cohort-3-Assignments
 │
+├── README.md
+│
+├── .gitignore
+│
 ├── A1-Assignment
+│   ├── README.md
+│   ├── Easy-Pokemon
+│   ├── Medium-Pokemon
+│   └── Hard-Loomi-Cotton
+│
 ├── A2-Assignment
+│
 ├── A3-Assignment
+│
 ├── A4-Assignment
-└── A5-Assignment
+│
+├── A5-Assignment
+│
+└── More Assignments Coming Soon...
 ```
 
-Each assignment contains multiple projects based on different difficulty levels.
+---
 
-- Easy
-- Medium
-- Hard
+# 📚 Assignment Roadmap
 
-More assignments and projects will be added throughout my learning journey.
+| Assignment | Status |
+|------------|--------|
+| Assignment 1 | ✅ In Progress |
+| Assignment 2 | ⏳ Coming Soon |
+| Assignment 3 | ⏳ Coming Soon |
+| Assignment 4 | ⏳ Coming Soon |
+| Assignment 5 | ⏳ Coming Soon |
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- HTML5
+- CSS3
+- JavaScript (Upcoming)
+- React.js (Upcoming)
+- Tailwind CSS (Upcoming)
+
+---
+
+## Backend
+
+- Node.js (Upcoming)
+- Express.js (Upcoming)
+
+---
+
+## Database
+
+- MongoDB (Upcoming)
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Netlify
+- Chrome DevTools
+
+---
+
+# 📈 Progress
+
+- [x] Git & GitHub Setup
+- [x] Repository Structure
+- [x] Assignment 1 Started
+- [ ] Assignment 1 Completed
+- [ ] Assignment 2
+- [ ] Assignment 3
+- [ ] JavaScript Projects
+- [ ] React Projects
+- [ ] Backend Projects
+- [ ] Full Stack Projects
+
+---
+
+# 🌟 Highlights
+
+This repository will gradually include:
+
+- Frontend Assignments
+- Backend Assignments
+- Full Stack Assignments
+- UI Components
+- Landing Pages
+- Dashboards
+- Responsive Websites
+- API Projects
+- Authentication Projects
+- Database Projects
+- Deployment Examples
+
+---
+
+# 📖 How to Use
+
+Clone the repository
+
+```bash
+git clone https://github.com/Sunnycodes-tech/Cohort-3-Assignments.git
+```
+
+Move into the project
+
+```bash
+cd Cohort-3-Assignments
+```
+
+Open any assignment folder and run the project in your preferred development environment.
+
+---
+
+# 📅 Repository Status
+
+🚧 This repository is actively maintained and updated with every new assignment and project.
+
+---
+
+# 🤝 Contributing
+
+This repository is primarily maintained for learning purposes.
+
+Suggestions, feedback, and improvements are always welcome.
+
+---
+
+# 📬 Connect With Me
+
+- GitHub: **Sunnycodes-tech**
+- LinkedIn: *(Add Later)*
+- Portfolio: *(Coming Soon)*
+
+---
+
+## ⭐ Support
+
+If you found this repository helpful, consider giving it a ⭐ to support my learning journey.
+
+---
+
+Made with ❤️ by **Sunny Singh**
