@@ -1,40 +1,72 @@
-# Assignment 1
+# 📘 Assignment 1
 
-## Projects
-
-### ✅ Easy
-
-- Pokemon UI
-
-### 🚧 Medium
-
-- Coming Soon
-
-### 🚧 Hard
-
-- Coming Soon
+This folder contains all the projects completed as part of **Assignment 1** of Cohort 3.
 
 ---
 
-## Technologies Used
+## 📂 Projects
+
+### ✅ Easy
+
+- Easy-Pokemon
+
+### 🚧 Medium
+
+- Medium-Pokemon *(Coming Soon)*
+
+### 🚧 Hard
+
+- Hard-Loomi-Cotton *(Coming Soon)*
+
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```text
 A1-Assignment
 │
+├── README.md
+│
 ├── Easy-Pokemon
+│   ├── assets
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+│
 ├── Medium-Pokemon
+│
 └── Hard-Loomi-Cotton
 ```
 
 ---
 
-## Status
+## 📚 Learning Objectives
 
-Assignment 1 is currently under development.
+Through this assignment, I practiced:
+
+- Semantic HTML
+- CSS Styling
+- Flexbox
+- Project Folder Organization
+- Git & GitHub Workflow
+
+---
+
+## 📌 Status
+
+- ✅ Easy Project Completed
+- 🚧 Medium Project In Progress
+- 🚧 Hard Project In Progress
+
+---
+
+## 🎯 Assignment Goal
+
+The goal of this assignment is to strengthen HTML and CSS fundamentals by building responsive and structured UI projects with clean code and proper project organization.
