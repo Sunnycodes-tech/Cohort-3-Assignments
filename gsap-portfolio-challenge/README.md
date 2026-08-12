@@ -1,16 +1,49 @@
-# React + Vite
+# GSAP Portfolio Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated developer portfolio built with React and GSAP as part of my frontend development journey.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 **[View Live Website](https://sunny-gsap-portfolio.vercel.app)**
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- GSAP-powered animations
+- Scroll-triggered animations with ScrollTrigger
+- Smooth scrolling with ScrollSmoother
+- Animated hero section
+- Responsive navigation
+- Custom cursor interaction
+- Developer journey timeline
+- Interactive tech stack section
+- Responsive design
+- Modern dark-themed UI
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- GSAP
+- SCSS
+- Vite
+- HTML5
+- CSS3
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+│   ├── Contact/
+│   ├── Experience/
+│   ├── Hero/
+│   ├── NavBar/
+│   ├── TechStack/
+│   ├── Warp/
+│   └── WhoAmI/
+├── constants/
+├── ui/
+│   └── cursor/
+├── App.jsx
+├── index.css
+└── main.jsx
