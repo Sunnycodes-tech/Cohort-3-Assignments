@@ -113,7 +113,7 @@ export default function Contact() {
 
           <div className="contact__links">
             <a
-              href="https://github.com/Sunnycodes-tech/"
+              href="https://www.linkedin.com/in/sunnycodes-tech/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -121,7 +121,7 @@ export default function Contact() {
               LinkedIn
             </a>
             <a
-              href="https://www.linkedin.com/in/sunnycodes-tech/"
+              href="https://github.com/Sunnycodes-tech/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
