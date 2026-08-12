@@ -8,3 +8,5 @@ Thumbs.db
 
 # Log Files
 *.log
+
+node_modules/
